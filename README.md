@@ -1,5 +1,5 @@
 # javalearning
-Exemplos de código Java encontrado em livros e revistas
+Exemplos de código Java encontrados em livros e revistas
 
 # JDK-17
 Todos as classes de exemplos encontrados no repositório foram criadas utilizando o jdk-17
