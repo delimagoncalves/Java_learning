@@ -2,7 +2,7 @@
 Conjunto de exemplos de código em Java 
 
 # JDK-17
-Todos as classes de exemplos encontrados no repositório foram criadas utilizando o jdk-17
+Todos os exemplos encontrados no repositório foram criadas utilizando o jdk-17
 
 # Sistema Operacional
 Plataforma Ubuntu-Linux 
